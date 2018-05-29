@@ -1,0 +1,1 @@
+diplom_2_CGMP_CUDA
